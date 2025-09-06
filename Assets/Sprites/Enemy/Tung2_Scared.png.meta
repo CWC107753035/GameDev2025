@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: b885f3bfd5149464d81b55688e2cfa2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6975077881302508589
+    second: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_0
+  - first:
+      213: 3779038952525015829
+    second: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_1
+  - first:
+      213: -4900559154922203839
+    second: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_2
+  - first:
+      213: -5723300373913091520
+    second: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_3
+  - first:
+      213: -4297513383392454579
+    second: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_4
+  - first:
+      213: 1423298628096740265
+    second: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_5
+  - first:
+      213: 4301739060991017358
+    second: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_6
+  - first:
+      213: -799569250038228619
+    second: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 304
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2468b3a0647cc060800000000000000
+      internalID: 6975077881302508589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 304
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b2e95b7e7d17430800000000000000
+      internalID: 3779038952525015829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 204
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145d212b967bdfbb0800000000000000
+      internalID: -4900559154922203839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 204
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042cc0e12a0c290b0800000000000000
+      internalID: -5723300373913091520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 103
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48d765d85a2c54c0800000000000000
+      internalID: -4297513383392454579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 103
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abc101bf8290c310800000000000000
+      internalID: 1423298628096740265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81cac662e8d2bb30800000000000000
+      internalID: 4301739060991017358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579552ed00c57e4f0800000000000000
+      internalID: -799569250038228619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_0: 6975077881302508589
+      Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_1: 3779038952525015829
+      Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_2: -4900559154922203839
+      Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_3: -5723300373913091520
+      Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_4: -4297513383392454579
+      Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_5: 1423298628096740265
+      Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_6: 4301739060991017358
+      Tung-Tung-Tung-Sahur-PNG-Photo-HQ (5) (1)_7: -799569250038228619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
