@@ -23,8 +23,7 @@ public class Tralalero_Automove : MonoBehaviour
         endPos = waypoints[NextTarget];
         distance = Vector3.Distance(startPos, endPos);
         startTime = Time.time;
-        switch (NextTarget)
-        {
+        switch (NextTarget){
             case 1:
                 animator.SetInteger("Direction", 0);
                 break;
@@ -42,10 +41,10 @@ public class Tralalero_Automove : MonoBehaviour
 //
     void Start(){
         waypoints = new Vector3[]{
-            new Vector3(-11.5f, 12.5f, 0f),  
-            new Vector3(-6.5f, 12.5f, 0f),   
-            new Vector3(-6.5f, 8.5f, 0f),    
-            new Vector3(-11.5f, 8.5f, 0f)    
+            new Vector3(1.5f, -1.5f, 0f),  
+            new Vector3(6.5f, -1.5f, 0f),   
+            new Vector3(6.5f, -5.5f, 0f),    
+            new Vector3(1.5f, -5.5f, 0f)    
         };
         
         animator = GetComponent<Animator>(); //init animator
@@ -55,8 +54,7 @@ public class Tralalero_Automove : MonoBehaviour
         SetNextTarget();
     }
 
-    void Update()
-    {
+    void Update(){
         float distCovered = (Time.time - startTime) * speed;
         float finishPercent = distCovered / distance;
 
@@ -73,6 +71,4 @@ public class Tralalero_Automove : MonoBehaviour
             timer = 0f;
         }
     }
-
-    
 }
